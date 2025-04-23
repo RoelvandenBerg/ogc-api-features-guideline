@@ -87,7 +87,7 @@ For the Dutch data providers, it is recommended to also support [RD-coordinatesy
 
 ### INSPIRE
 
-[INSPIRE-MIF document: Setting up an INSPIRE Download service based on the OGC API-Features standard](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md), [[PUB-2]] describes the specific INSPIRE requirements.
+In the context of INSPIRE, the European member states are creating a digital network for exchanging information about the environment. [INSPIRE-MIF document: Setting up an INSPIRE Download service based on the OGC API-Features standard](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md), [[PUB-2]] describes the specific INSPIRE requirements.
 Most of them are explained in the next chapters.
 This document does propose in [Note 2](https://github.com/INSPIRE-MIF/gp-ogc-api-features/blob/master/spec/oapif-inspire-download.md#81-requirements-class-inspire-pre-defined-data-set-download-oapif--) to make it a mandatory requirement for INSPIRE to comply with [OAPIF requirements class OpenAPI 3.0.](https://www.opengis.net/doc/IS/ogcapi-features-1/1.0#rc_oas30)
 

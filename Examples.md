@@ -371,12 +371,9 @@ https://api.pdok.nl/brt/top10nl/ogc/v1/collections/gebouw_punt/items?bbox-crs=ht
 
 #### Dutch API design rules  
 
-It complies with all the rules, except for rule https://gitdocumentatie.logius.nl/publicatie/api/adr/#/core/no-trailing-slash and https://gitdocumentatie.logius.nl/publicatie/api/adr/#/core/naming-collections.  
+It complies with all the rules, except for rule https://gitdocumentatie.logius.nl/publicatie/api/adr/#/core/no-trailing-slash.  
 The rule "no-trailing-slash" in the Dutch ADR prescribes that none of the API endpoints should have a trailing slash. However, the OGC specification states that the landing page (i.e. "Home") should have a trailing slash. So the rules contradict.
 It is expected that in future, this ADR-rule will make an exception for the landing page.  
-
-Secondly, the rule [naming-collection](https://gitdocumentatie.logius.nl/publicatie/api/adr/#/core/naming-collections) demands that the path segment describing the name of the collection resource MUST be written in the plural form.
-In the original dataset of the BRT, the layers were already described in a singular form. It is understandable that they want it to be the same in the API as in the original dataset. 
 
 #### INSPIRE
 
