@@ -39,7 +39,7 @@ Rather than sharing the data as a complete dataset, the OGC API Features standar
 
 The best way of understanding the concept is looking at the examples that are discussed in the chapter of [examples](#H04).
 
-Since providing a download service is an [[ INSPIRE ]] requirement when responsible for an INSPIRE dataset, the use of OAPIF can be considered for this purpose.
+Since providing a download service is an INSPIRE [[PUB-2]] requirement when responsible for an INSPIRE dataset, the use of OAPIF can be considered for this purpose.
 It is even seen as an endorsed <a href="https://inspire.ec.europa.eu/portfolio/good-practice-library/" target="_blank">Good Practice</a> within the INSPIRE community.
 In the European Open Data Directive (EU) 2019/1024, the European Commission designates a list of thematic categories of high-value datasets (the ‘High Value Datasets’ (HVD)). This directive also endorses the use of OGC-APIs.
 For the Dutch data providers there is a special [HVD guideline](https://docs.geostandaarden.nl/eu/handreiking-hvd/#289E9E05) and an [INSPIRE guideline](https://docs.geostandaarden.nl/eu/INSPIRE-handreiking/).
